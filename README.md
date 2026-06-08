@@ -48,7 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourita-M&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
-/*
+<!--
 ## 🚀 Featured Projects
 
 - 🔹 **Project Name** – Short description of what it does.
@@ -64,4 +64,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
-*/
+-->
