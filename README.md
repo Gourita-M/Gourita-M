@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mouad Gourita
+# Hi there 👋
 
 💻 Full-Stack Developer passionate about building modern web applications.
 
