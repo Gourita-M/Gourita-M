@@ -41,11 +41,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Gourita-M&theme=tokyonight&show_icons=true&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gourita-M&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourita-M&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
